@@ -1,3 +1,4 @@
 *.pyc
 *.bag
+*.mp4
 .venv/*
